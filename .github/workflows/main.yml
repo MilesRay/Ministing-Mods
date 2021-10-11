@@ -28,6 +28,6 @@ jobs:
         uses: vimtor/action-zip@v1
         with:
           # Files or directories to zip
-          files: Ministing-Mods/MinistingMods
+          files: MilesRay/Ministing-Mods/MinistingMods
           # Name of output zip file
           dest: release.zip
