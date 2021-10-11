@@ -27,5 +27,4 @@ jobs:
         # uses: TheDoctor0/zip-release@4fb9e4ff72847dd3d1c111cf63834e353ed7cb3d
         uses: TheDoctor0/zip-release@0.6.0
         with:
-          # Working directory before zipping
-          path: MinistingMods
+          path: ./MinistingMods
