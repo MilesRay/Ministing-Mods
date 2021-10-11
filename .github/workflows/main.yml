@@ -28,4 +28,4 @@ jobs:
         uses: TheDoctor0/zip-release@0.6.0
         with:
           # Working directory before zipping
-          directory: MinistingMods
+          path: MinistingMods
